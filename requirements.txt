@@ -1,6 +1,6 @@
 google_search_results
 streamlit
-serpapi==0.4.4
+serpapi
 pandas
 matplotlib
 google-serp-api
