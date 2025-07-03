@@ -1,7 +1,5 @@
-google_search_results
-pandas
-serpapi
 streamlit
-
-
-
+matplotlib
+pandas
+numpy
+serpapi
