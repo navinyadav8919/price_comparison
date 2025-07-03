@@ -17,7 +17,7 @@ def compare(med_name):
 
 
 c1,c2=st.columns(2)
-c1.image('D:\Internship\images.png',width=200)
+c1.image('images.png',width=200)
 c2.header('E-pharmacy price comparison system')
 
 # ---------------------------------------------------------------------------------
