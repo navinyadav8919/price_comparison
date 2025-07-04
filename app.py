@@ -1,4 +1,4 @@
-from google_search_results import GoogleSearch
+from serpapi import GoogleSearch
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
